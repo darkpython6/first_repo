@@ -1,0 +1,4 @@
+Invoking command in '/home/daniyar/dev_ws/build/rsp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniyar/dev_ws/build/rsp -- -j8 -l8
+Invoked command in '/home/daniyar/dev_ws/build/rsp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniyar/dev_ws/build/rsp -- -j8 -l8
+Invoking command in '/home/daniyar/dev_ws/build/rsp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniyar/dev_ws/build/rsp
+Invoked command in '/home/daniyar/dev_ws/build/rsp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniyar/dev_ws/build/rsp

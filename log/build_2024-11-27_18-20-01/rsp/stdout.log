@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/config
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/description
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/description/robot.urdf.xacro
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/launch
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/launch/rpy.launch.py
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/worlds
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/package_run_dependencies/rsp
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/parent_prefix_path/rsp
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/ament_prefix_path.sh
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/ament_prefix_path.dsv
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/path.sh
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/path.dsv
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.bash
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.sh
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.zsh
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.dsv
+-- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/package.dsv
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/packages/rsp
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/cmake/rspConfig.cmake
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/cmake/rspConfig-version.cmake
+-- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/package.xml

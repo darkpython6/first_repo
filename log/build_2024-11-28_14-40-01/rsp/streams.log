@@ -1,0 +1,28 @@
+[0.056s] Invoking command in '/home/daniyar/dev_ws/build/rsp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniyar/dev_ws/build/rsp -- -j8 -l8
+[0.418s] Invoked command in '/home/daniyar/dev_ws/build/rsp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/daniyar/dev_ws/build/rsp -- -j8 -l8
+[0.459s] Invoking command in '/home/daniyar/dev_ws/build/rsp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniyar/dev_ws/build/rsp
+[0.496s] -- Install configuration: ""
+[0.497s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/config
+[0.511s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/description
+[0.511s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/description/robot.urdf.xacro
+[0.512s] -- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/description/robot_core.xacro
+[0.575s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/description/inertial_macros.xacro
+[0.576s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/launch
+[0.576s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/launch/rpy.launch.py
+[0.641s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/worlds
+[0.665s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/package_run_dependencies/rsp
+[0.666s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/parent_prefix_path/rsp
+[0.666s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/ament_prefix_path.sh
+[0.667s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/ament_prefix_path.dsv
+[0.668s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/path.sh
+[0.668s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/environment/path.dsv
+[0.669s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.bash
+[0.669s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.sh
+[0.670s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.zsh
+[0.670s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/local_setup.dsv
+[0.671s] -- Installing: /home/daniyar/dev_ws/install/rsp/share/rsp/package.dsv
+[0.685s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/ament_index/resource_index/packages/rsp
+[0.686s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/cmake/rspConfig.cmake
+[0.686s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/cmake/rspConfig-version.cmake
+[0.686s] -- Up-to-date: /home/daniyar/dev_ws/install/rsp/share/rsp/package.xml
+[0.689s] Invoked command in '/home/daniyar/dev_ws/build/rsp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/daniyar/dev_ws/build/rsp
